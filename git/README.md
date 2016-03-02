@@ -30,3 +30,24 @@
 ## git pull origin master/dev/feature-bid
 > 从远程仓库更新最新文件 
 
+# 如何用screen命令
+
+## screen -ls
+> 查看screen中有多少个进程在跑
+
+## screen -r 
+> 进入到一个screen中
+
+## ctrl+A+D
+> 从一个screen中退出来并且detach掉
+
+## screen -d
+> 是把attach的进程detach掉
+
+## screen -a
+> 是把detach的进程attach掉
+
+## 在screen中exit掉，就是结束这个screen进程
+
+## screen -S
+> 开启某个screen
