@@ -8,3 +8,8 @@
 * 也可以用grunt uglify： xxxx
 *         grunt cssmin： XXXX，分别给css，js打包，打包后就不用改html了
 * node根目录有个gruntfile.js 里面定义哥xxxx，改了哪个xxxx就对应执行哪个
+
+
+##2016/3/3
+###几个问题： 
+
