@@ -32,6 +32,7 @@
 
 ## git remote add ditrepo git@112.74.92.121:ditrepo.git
 > 新建的仓库, git pull/push ditrepo feature-bid
+> g1tdev
 
 # 如何用screen命令
 
