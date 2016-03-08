@@ -30,6 +30,9 @@
 ## git pull origin master/dev/feature-bid
 > 从远程仓库更新最新文件 
 
+## git remote add ditrepo git@112.74.92.121:ditrepo.git
+> 新建的仓库, git pull/push ditrepo feature-bid
+
 # 如何用screen命令
 
 ## screen -ls
