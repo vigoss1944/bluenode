@@ -6,6 +6,7 @@
 ##second step
 >* 进入这个文件夹后，添加远程仓库，git remote add origin https://github.com/vigoss1944/bluenode.git
 >* 然后就可以推送到master分支,先pull origin master
+>* origin 是仓库名，这个可以自己随便起，master才是分支名
 
 #如何建立分支，以及推送分支（初始化）
 >* 可以先用git branch 来查看自己有多少个分支和处于哪个分支上
